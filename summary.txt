@@ -1,0 +1,10 @@
+After adjusting the different variables like the amount of checkers, , items brought, and wait time;
+you can quickly figure out that 5 checkers was more than enough for customers getting few than 10 items, 
+before idle time started piling up.  The wild card would be the store preparing for customer coming at 
+a rate higher than every 2 minutes- maybe during lunch breaks or rush hour.  Adjusting the different
+variables all had it's pro's and cons, but balancing the shopper and store goals would make
+everyone generally happy; increasing the number of checkers, improving customer experience- resulting
+to more returning customers.  The other data I wanted to process was subtracting checkout time by the customers 
+arrival time giving us the metric TotalTime in store.  This data can help identify times where the store
+is congested or not.... Helping the store know when more checkers are needed or suggesting a better 
+store layout.
